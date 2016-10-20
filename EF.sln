@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Classes", "EF.Classes\EF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.DataModel", "EF.DataModel\EF.DataModel.csproj", "{46D78128-EACB-40A0-B89D-472D078F959A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.EDMXFromDB", "EF.EDMXFromDB\EF.EDMXFromDB.csproj", "{33E7027D-3C83-4E9B-B9BD-E058343E6DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.CodeModelFromDB", "EF.CodeModelFromDB\EF.CodeModelFromDB.csproj", "{46D1FA20-548A-4404-A874-8302A17CCC95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{46D78128-EACB-40A0-B89D-472D078F959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46D78128-EACB-40A0-B89D-472D078F959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46D78128-EACB-40A0-B89D-472D078F959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E7027D-3C83-4E9B-B9BD-E058343E6DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7027D-3C83-4E9B-B9BD-E058343E6DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7027D-3C83-4E9B-B9BD-E058343E6DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7027D-3C83-4E9B-B9BD-E058343E6DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D1FA20-548A-4404-A874-8302A17CCC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D1FA20-548A-4404-A874-8302A17CCC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D1FA20-548A-4404-A874-8302A17CCC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D1FA20-548A-4404-A874-8302A17CCC95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
